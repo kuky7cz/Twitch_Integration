@@ -1,0 +1,7 @@
+{
+	"twitch_client_id": "",
+	"twitch_pass": "",
+	"twitch_chanel": "",
+	"votingTimeMinutes": "1",
+	"votingWaitingMinutes": "10"
+}

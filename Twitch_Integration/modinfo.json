@@ -1,0 +1,13 @@
+{
+  "type": "code",
+  "modid": "twitch_integration",
+  "name": "Twitch Integration",
+  "authors": [
+    "kuky7cz"
+  ],
+  "description": "Twitch Integration. Only change health !hp+ !hp- ",
+  "version": "0.1.1",
+  "dependencies": {
+    "game": ""
+  }
+}
